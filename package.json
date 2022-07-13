@@ -1,0 +1,22 @@
+{
+  "name": "algorithm-problems",
+  "version": "1.0.0",
+  "description": "Most asked interview coding questions. Creating this just for fun. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virajsathvara/algorithm-problems.git"
+  },
+  "author": "viraj sathvara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virajsathvara/algorithm-problems/issues"
+  },
+  "homepage": "https://github.com/virajsathvara/algorithm-problems#readme",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}
